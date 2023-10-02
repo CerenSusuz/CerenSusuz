@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me:
-🔭 I’m currently working on EMakina an Epam Company<br>🤝 I’m looking for help with .NET <br> 📫 How to reach me: https://www.linkedin.com/in/ceren-susuz-2a70841b3/<br>
+🔭 I’m currently working on EMakina an Epam Company<br>🤝 I’m looking for help with .NET and Sitecore <br> 📫 How to reach me: https://www.linkedin.com/in/ceren-susuz-2a70841b3/<br>
 
 
 ## 🌐 Socials:
